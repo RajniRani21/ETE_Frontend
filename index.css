@@ -1,0 +1,41 @@
+
+body {
+  background-image: url("img.jpg");
+  background-repeat: no-repeat;
+  margin-right: 200px;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+   font-family: "Calibri", sans-serif;
+}
+#inpt-contain{
+	display: flex;
+	margin: 26px 0 0 0;
+	justify-content: space-around;
+	 font-family: "Calibri", sans-serif;
+}
+#outpt-contain{
+	display: flex;
+	flex-direction: column;
+	 font-family: "Calibri", sans-serif;
+}
+#outpt-contain > div{
+	padding:24px;
+	 font-family: "Calibri", sans-serif;
+}
+#outpt-contain > div > div{
+	margin: 24px auto;
+	border:1px solid black;
+	text-align: center;
+	width:100px;
+	padding: 16px;
+	background-color: black;
+	font:bold;
+	color: white;
+	 font-family: "Calibri", sans-serif;
+}
+#btn{
+	
+	 font-family: "Calibri", sans-serif;
+}
+/* NAME:-RAJNI RANI
+	ID:-1811980505*/
